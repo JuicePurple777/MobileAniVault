@@ -7,3 +7,10 @@ MyMobileAniVault (MMAV) is still in Beta phase and anything is subject to change
 
 
 This application was created mostly with the assistance from AI.
+
+I hope you like this application :). If you want to show your appreciation, feel free to donate to me, it would be much appreciated.
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B11ZBH0A)
+Otherwise, this application is free for use!
+
+Download : [https://github.com/JuicePurple777/MyAniVault/releases](https://github.com/JuicePurple777/MyMobileAniVault/releases)
+
