@@ -16,7 +16,7 @@ Download APK : https://github.com/JuicePurple777/MobileAniVault/releases  📱
 
 Here are the steps to properly setup your application once you download it:
 - 🟢 Open settings menu in the bottom right hand corner (gear icon)
-- 🟢 Next to "Library Folders" you will see "+ Add" , click that button and choose the folder(s) where you have your anime videos saved
+- 🟢 Next to "Library Folders" you will see "+ Add" , click that button and choose the folder(s) where you have your anime videos saved.  (Edit: There is now also this option at the top of the main home page screen)
 - You can add multiple folders, so the application supports multiple storage containers 👍
 - 🟢 Once folders have been selected you can go back to the "Library" tab in the bottom left hand side of the screen.
 - You will see that shows are on your home page but without metadata.
