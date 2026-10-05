@@ -1,9 +1,9 @@
-# MyMobileAniVault
-An application that lets your view, sort, and manage your local anime collection as if it was on a streaming service, locally.
+# MobileAniVault
+An application that lets your view, sort, and manage your local anime collection as if it was your own personal streaming service, locally.
 
-MyMobileAniVault is the mobile (currently Android) application version of the original application "MyAniVault" which is for PC users and can be found here https://github.com/JuicePurple777/MyAniVault .
+MobileAniVault is the mobile (currently Android) application version of the original application "MyAniVault" which is for PC users and can be found here https://github.com/JuicePurple777/MyAniVault .
 
-MyMobileAniVault (MMAV) is still in Beta phase and anything is subject to change, including the name. This project is new and does not get much testing so updates may be slow, feedback is appreciated.
+MobileAniVault is still a new application and anything is subject to change, including the name. This project is new and does not get much testing so updates may be slow, feedback is much appreciated.
 
 
 This application was created mostly with the assistance from AI.
