@@ -15,12 +15,12 @@ Otherwise, this application is free for use!
 Download APK : https://github.com/JuicePurple777/MobileAniVault/releases  📱
 
 Here are the steps to properly setup your application once you download it.
-- Open settings menu in the bottom right hand corner (gear icon)
-- Next to "Library Folders" you will see "+ Add" , click that button and choose the folder(s) where you have your anime videos saved
+- 🟢 Open settings menu in the bottom right hand corner (gear icon)
+- 🟢 Next to "Library Folders" you will see "+ Add" , click that button and choose the folder(s) where you have your anime videos saved
 - You can add multiple folders, so the application supports multiple storage containers 👍
-- Once folders have been selected you can go back to the "Library" tab in the bottom left hand side of the screen.
+- 🟢 Once folders have been selected you can go back to the "Library" tab in the bottom left hand side of the screen.
 - You will see that shows are on your home page but without metadata.
-- Next setup metadata - Click the 3 dots in the top right hand corner of your home page.
+- 🟢 Next setup metadata - Click the 3 dots in the top right hand corner of your home page.
 - Some options will slide up.
-- You can use the "Fetch or refresh metadata" option to collect the data for your shows using our approved MAL API.
+- 🟢 You can use the "Fetch or refresh metadata" option to collect the data for your shows using our approved MAL API.
 - You also have the option to fetch metadata for each show individually if you'd choose to do it that way, by clicking the 3 dots on the show card.
