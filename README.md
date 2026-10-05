@@ -14,7 +14,7 @@ Otherwise, this application is free for use!
 
 Download APK : https://github.com/JuicePurple777/MobileAniVault/releases  📱
 
-Here are the steps to properly setup your application once you download it.
+Here are the steps to properly setup your application once you download it:
 - 🟢 Open settings menu in the bottom right hand corner (gear icon)
 - 🟢 Next to "Library Folders" you will see "+ Add" , click that button and choose the folder(s) where you have your anime videos saved
 - You can add multiple folders, so the application supports multiple storage containers 👍
