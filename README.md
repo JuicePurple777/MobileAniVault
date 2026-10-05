@@ -12,5 +12,4 @@ I hope you like this application :). If you want to show your appreciation, feel
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B11ZBH0A)
 Otherwise, this application is free for use!
 
-Download APK : [https://github.com/JuicePurple777/MyMobileAniVault/releases](https://github.com/JuicePurple777/MobileAniVault/releases)
-
+Download APK : https://github.com/JuicePurple777/MobileAniVault/releases
