@@ -14,6 +14,8 @@ Otherwise, this application is free for use!
 
 Download APK : https://github.com/JuicePurple777/MobileAniVault/releases  📱
 
+The recommended media player for the app is the internal integrated media player .
+
 Here are the steps to properly setup your application once you download it:
 - 🟢 Open settings menu in the bottom right hand corner (gear icon)
 - 🟢 Next to "Library Folders" you will see "+ Add" , click that button and choose the folder(s) where you have your anime videos saved.  (Edit: There is now also this option at the top of the main home page screen)
